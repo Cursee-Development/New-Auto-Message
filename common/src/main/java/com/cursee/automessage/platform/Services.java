@@ -1,7 +1,7 @@
-package com.cursee.examplemod.platform;
+package com.cursee.automessage.platform;
 
-import com.cursee.examplemod.Constants;
-import com.cursee.examplemod.platform.services.IPlatformHelper;
+import com.cursee.automessage.Constants;
+import com.cursee.automessage.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
