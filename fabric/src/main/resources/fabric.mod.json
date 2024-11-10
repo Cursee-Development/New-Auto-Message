@@ -17,6 +17,12 @@
     "entrypoints": {
         "main": [
             "com.cursee.automessage.AutoMessageFabric"
+        ],
+        "client": [
+            "com.cursee.automessage.AutoMessageClientFabric"
+        ],
+        "server": [
+            "com.cursee.automessage.AutoMessageServerFabric"
         ]
     },
     "mixins": [

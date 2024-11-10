@@ -3,6 +3,7 @@ package com.cursee.automessage.platform;
 import com.cursee.automessage.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
+import net.minecraftforge.fml.loading.FMLPaths;
 
 public class ForgePlatformHelper implements IPlatformHelper {
 
